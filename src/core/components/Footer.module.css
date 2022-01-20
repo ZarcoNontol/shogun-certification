@@ -1,0 +1,4 @@
+.FooterWrapper {
+  background-color: var(--footer-bg-color);
+  color: var(--footer-text-one);
+}

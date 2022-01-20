@@ -1,0 +1,23 @@
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+/* #1A212A */
+/* #1A212A */
+:root {
+  --footer-bg-color: #1a212a;
+  --footer-text-one: #ffffff;
+  --footer-text-two: rgba(255, 255, 255, 0.69);
+}
+
+/* Reset paddings and margins for lists */
+
+ul {
+  padding: 0;
+  margin: 0;
+  list-style-type: none;
+}
+
+li {
+  padding: 0;
+}
